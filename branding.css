@@ -1,0 +1,9 @@
+img {
+  width:90%;
+  min-width:350px;
+  max-width: 850px;
+  border:none;
+  display: flex;
+  justify-content: flex-start;
+  margin:auto;
+}
